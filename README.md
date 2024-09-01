@@ -68,4 +68,3 @@ Feel free to reach out if you have any questions, feedback, or collaboration ide
 ---
 
 Thanks for stopping by! 😊
-add some animations on it
