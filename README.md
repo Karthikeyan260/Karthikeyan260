@@ -22,15 +22,6 @@ I'm always eager to learn new technologies, explore innovative ideas, and work o
 
 Here are some of the projects I've worked on:
 
-### 🎮 Memory Game
-I developed a **Memory Game** using HTML, CSS, and JavaScript. This interactive game challenges players to match pairs of cards within the fewest number of moves and the shortest amount of time. The game features a dynamic interface, responsive design, and smooth animations, providing an engaging user experience.  
-**Skills Used:** JavaScript logic, DOM manipulation, CSS animations.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/memory-game)
-
-### 📝 To-Do List Application
-I created a **To-Do List** application that allows users to add, edit, and delete tasks, helping them manage their daily activities effectively. The application includes a clean, intuitive UI and persistent data storage using local storage.  
-**Skills Used:** JavaScript, DOM manipulation, Local Storage.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/to-do-list)
 
 ### ♟️ Chess Game
 I developed a **Chess Game** with both computer and player modes using HTML, CSS, and JavaScript. This project highlights my ability to implement complex game logic and create a user-friendly interface. The game includes features such as move validation, checkmate detection, and AI opponent.  
@@ -55,7 +46,7 @@ I created a **Wikipedia Clone** using HTML, CSS, and JavaScript, mimicking the l
 ### 🔊 Text-to-Speech Application
 I built a **Text-to-Speech** application using HTML and JavaScript, integrating the Web Speech API to convert text into speech.  
 **Skills Used:** JavaScript, Web APIs, Accessibility Features.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/text-to-speech)
+[🔗 Check out the project](https://github.com/Karthikeyan260/Text-to-Speech-webpage)
 
 ### 🌤️ Weather Dashboard
 I developed a **Weather Dashboard** that fetches real-time weather data from the OpenWeatherMap API, displaying current and forecast weather conditions in a visually appealing way.  
@@ -65,7 +56,6 @@ I developed a **Weather Dashboard** that fetches real-time weather data from the
 ## 📊 Stats & Views
 
 - 🖥️ **Total Projects:** 8
-- 🌍 **Visitors:** ![Visitor Count](https://komarev.com/ghpvc/?username=Karthikeyan260&color=brightgreen)
 - 🌟 **Top Project:** Chess Game - [View on GitHub](https://github.com/Karthikeyan260/chess-game)
 
 ## 🌐 Let's Connect!
