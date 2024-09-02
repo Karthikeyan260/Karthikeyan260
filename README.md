@@ -63,7 +63,7 @@ I developed a **Weather Dashboard** that fetches real-time weather data from the
 
 Feel free to reach out if you have any questions, feedback, or collaboration ideas!  
 - 📧 **Email:** [kartji005@gmail.com](mailto:kartji005@gmail.com)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/karthikeyan-k-b41509258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 **LinkedIn:** [Karthikeyan](https://www.linkedin.com/in/karthikeyan-k-b41509258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
