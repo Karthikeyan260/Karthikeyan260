@@ -19,40 +19,7 @@ I'm always eager to learn new technologies, explore innovative ideas, and work o
 - **APIs:** ![REST APIs](https://img.shields.io/badge/-REST%20APIs-1F2E3D?logo=api&logoColor=white) ![OpenWeatherMap API](https://img.shields.io/badge/-OpenWeatherMap%20API-FFA500?logo=cloud&logoColor=white)
 - **Other Skills:** Problem-solving, debugging, and optimizing code
 
-## 📂 Projects
 
-Here are some of the projects I've worked on:
-
-
-### ♟️ Chess Game
-I developed a **Chess Game** with both computer and player modes using HTML, CSS, and JavaScript. This project highlights my ability to implement complex game logic and create a user-friendly interface. The game includes features such as move validation, checkmate detection, and AI opponent.  
-**Skills Used:** JavaScript, Algorithm Development, Game Logic.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/chess-game)
-
-### ❌ Tic Tac Toe Game
-I created a **Tic Tac Toe** game with single-player (against AI) and two-player modes. This project demonstrates my understanding of game development and user interaction design.  
-**Skills Used:** JavaScript, HTML Canvas, Event Handling.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/tic-tac-toe)
-
-### 🐍 Snake Game
-I developed a classic **Snake Game** using HTML, CSS, and JavaScript, featuring smooth animations and responsive controls.  
-**Skills Used:** JavaScript, Game Logic, CSS Styling.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/snake-game)
-
-### 📖 Wikipedia Clone
-I created a **Wikipedia Clone** using HTML, CSS, and JavaScript, mimicking the layout and functionality of the popular online encyclopedia.  
-**Skills Used:** HTML, CSS, JavaScript, Responsive Design.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/wikipedia-clone)
-
-### 🔊 Text-to-Speech Application
-I built a **Text-to-Speech** application using HTML and JavaScript, integrating the Web Speech API to convert text into speech.  
-**Skills Used:** JavaScript, Web APIs, Accessibility Features.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/Text-to-Speech-webpage)
-
-### 🌤️ Weather Dashboard
-I developed a **Weather Dashboard** that fetches real-time weather data from the OpenWeatherMap API, displaying current and forecast weather conditions in a visually appealing way.  
-**Skills Used:** JavaScript, APIs, JSON, Responsive Design.  
-[🔗 Check out the project](https://github.com/Karthikeyan260/weather-dashboard)
 
 
 # 📊 GitHub Stats:
@@ -74,10 +41,6 @@ I developed a **Weather Dashboard** that fetches real-time weather data from the
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📊 Stats & Views
-
-- 🖥️ **Total Projects:** 8
-- 🌟 **Top Project:** Chess Game - [View on GitHub](https://github.com/Karthikeyan260/chess-game)
 
 ## 🌐 Let's Connect!
 
