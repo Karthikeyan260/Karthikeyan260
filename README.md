@@ -21,6 +21,18 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [🛠️ Skills & Technologies](#️-skills--technologies)
+- [📊 GitHub Stats & Activity](#-github-stats--activity)
+- [🏆 GitHub Trophies](#-github-trophies)
+- [🎯 Fun & Personal](#-fun--personal)
+- [🔝 Top Contributed Repositories](#-top-contributed-repositories)
+- [🌐 Connect With Me](#-connect-with-me)
+
+---
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -32,6 +44,49 @@
 💡 I love building **interactive applications** that solve real-world problems  
 🎯 Always eager to learn **new technologies** and take on **challenging projects**  
 ⚡ Fun fact: I debug with **console.log()** and I'm not ashamed of it! 😄
+
+### 🎯 Current Focus
+- 🔥 Building modern web applications with **React** and **Node.js**
+- 📱 Exploring **mobile development** with React Native
+- ☁️ Learning **cloud architecture** and **DevOps** practices
+- 🎮 Working on exciting **game development** projects
+
+---
+
+## 🚧 Current Projects & Achievements
+
+<div align="center">
+
+### 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🌦️ Weather App
+- **Tech Stack:** HTML, CSS, JavaScript, OpenWeatherMap API
+- **Features:** Real-time weather data, responsive design
+- **Status:** ✅ Completed
+
+</td>
+<td width="50%">
+
+#### 🎮 Game Development
+- **Tech Stack:** JavaScript, HTML5 Canvas
+- **Features:** Interactive gameplay, score tracking
+- **Status:** 🚧 In Progress
+
+</td>
+</tr>
+</table>
+
+### 🏅 Achievements
+- 🎓 **B.Tech IT** - DMI College of Engineering (2025)
+- 💻 **Full-Stack Development** - Self-taught expertise
+- 🌐 **Open Source Contributor** - Active GitHub profile
+- 🎯 **Problem Solver** - Strong debugging skills
+
+</div>
 
 ---
 
@@ -117,15 +172,25 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyan260&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+### 📈 Quick Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=karthikeyan260&theme=tokyonight&hide_border=false)
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan260&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=karthikeyan260&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan260&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan260&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-<div align="center">
+### 📊 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan260&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)
 
@@ -151,9 +216,16 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🎵 Currently Listening To
-[![Spotify](https://novatorem-karthikeyan260.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31gxs7zqkzgywpk7yejfhuzq5gzi)
 
-*Connect your Spotify for dynamic music display!*
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31gxs7zqkzgywpk7yejfhuzq5gzi)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gxs7zqkzgywpk7yejfhuzq5gzi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31gxs7zqkzgywpk7yejfhuzq5gzi&redirect=true)
+
+*🎧 Music fuels my coding sessions!*
+
+</div>
 
 </div>
 
