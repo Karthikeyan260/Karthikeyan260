@@ -233,7 +233,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-k-b41509258)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikeyan260)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartji005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](karthikeyank.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karthikeyank.tech/)
 
 
 </div>
@@ -244,7 +244,7 @@
 
 ### 💬 Let's collaborate and build something amazing together!
 
-![Thanks](https://www.google.com/search?client=ms-android-realme-terr1-rso2&sca_esv=58b10d05d2cc165c&sxsrf=AE3TifNnkV4W2dMW_VLPfBMjlMmUTVixdg:1754803379588&udm=2&fbs=AIIjpHwdlVWI4oi2g38E8_BbusNm3pTf6ItdW8-u0JVVBgXow2SS4XfWu_GDEb99WFnlrQTRreI6irPtfZJtDa4EEIgg0x3tUHxLg3XXRnTxVRQ9Q7pqPW_5d9D9bjlcc_FI4eiXFFuA2L4hCBXp_cA75QSMfg7MVtBvVSBLtS3P3hfBQmVCwpaMKjVAJW0aw1MLQ-ik4sEBWhHYuAaEJ2bboZEDax3yXXHxi39ufn6Ywy5BzuPB-DE&q=thank+you+tech&sa=X&ved=2ahUKEwiM-dyAwP-OAxU9SWwGHe81KNQQtKgLegQIDxAB&biw=360&bih=670&dpr=2#sv=CAMS9gQa1gQKiQIKuAEStQEKd0FMa3Rfdkd6VUxuYmx3LV90eFZ4bV9PckFueGdPT19NMkZBTDVhTU5Ick42czJTM1VoZzJXVXR3VFZOSHZxYzBZR0h0QzVBY2NLMFB0U2MtMngyalN1TVlYWkwtdTdXbHdXY1hDakVicnVZR3ZjdVVtY19fZzRFEhZ0aXlZYU1UYkxNWHZzZU1QeWJxZEtRGiJBRk1BR0dvRndZZW50T0NxakFRVEUxVE9Va1hUbzMtSEhnEgM4NDkaATMiEwoBcRIOdGhhbmsgeW91IHRlY2giBwoDdGJzEgAiJgoEZXFsZBIeQ2dJSUFCQUFPZ1FJQVJBQVZhYkItejV0X1AzRVBnErUCCs4BEssBCowBQUxrdF92R2lfUlNReFB5YzBYNm1vd091RzF3Q1dNc0ZiaUw1cDNkWVVObUhvZmYtWWx2d1BxTENZOFg3X2Nza29zM3lPZWRDSFdXeFJ3bUk3WWdsMndOTWdDamNrZXFDM1dIckdQQ3dRRFc4N25TaEJONTlqSEkzaXhwME5oR1BPNGxUSjREcnVyWm8SFnRpeVlhTVRiTE1YdnNlTVB5YnFkS1EaIkFGTUFHR3BwaTVYTF9RWnpINEQ0OWhYRnR0eE5oOEVPN1ESBDQ2OTgaATMiGAoGaW1nZGlpEg5BMmlYd2FpM0hrRWpYTSIXCgVkb2NpZBIOcGlyVDM0MHlkcldQY00iJgoEZXFsZBIeQ2dJSUFCQUFPZ1FJQVJBQVZhYkItejV0X1AzRVBnKhBlLUEyaVh3YWkzSGtFalhNIAQqFwoBcxIQZS1BMmlYd2FpM0hrRWpYTRgBMAEYByC1loXFAzABSgoIAhACGAIgAigC)
+![Thanks]()
 
 **Thanks for stopping by! 😊**
 
