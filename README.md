@@ -21,10 +21,10 @@
 <div align="center">
   
   <!-- Socials -->
-  <a href="https://www.linkedin.com/in/karthikeyan-k-b41509258">
+  <a href="https://www.linkedin.com/in/karthikeyan2604/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://karthikeyank.tech/">
+  <a href="https://karthikeyank-site.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:kartji005@gmail.com">
