@@ -33,6 +33,12 @@
   <a href="https://github.com/Karthikeyan260">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://linktr.ee/karthikeyan26">
+    <img src="https://img.shields.io/badge/Linktree-View-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/5621fdd1-0665-4d88-9c5b-4c3adf7efdda/public_url">
+    <img src="https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
 
   <br /><br />
 
@@ -164,6 +170,10 @@ class KarthikeyanK:
             "tools": ["Git", "VS Code", "Vercel"]
         }
         
+        self.certifications = [
+            "Claude Certified Architect - Foundations (CCA-F)"
+        ]
+        
         self.current_focus = [
             "Building AI-powered web applications",
             "Advanced Data Analytics & Visualization",
@@ -247,6 +257,20 @@ class KarthikeyanK:
     <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<!-- ========================== -->
+<!--     CERTIFICATIONS         -->
+<!-- ========================== -->
+
+## 🎓 Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/5621fdd1-0665-4d88-9c5b-4c3adf7efdda/public_url">
+    <img src="https://img.shields.io/badge/Claude_Certified_Architect-Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  </a>
+</div>
 
 ---
 
