@@ -96,7 +96,6 @@
 - [Experience](#-experience)
 - [Education](#-education)
 - [Full Tech Stack](#️-full-tech-stack)
-- [Skill Proficiency](#-skill-proficiency)
 - [Featured AI Projects](#-featured-ai-projects)
 - [Other Projects](#-other-projects)
 - [Certifications](#-certifications)
@@ -205,17 +204,32 @@ graph TD
 ## 💼 Experience
 
 ```mermaid
-timeline
-    title Karthikeyan K — Career Timeline
-    2021 : Started B.Tech IT at DMI College of Engineering
-    2023 : IoT Intern — MIT Chennai
-         : IoT Intern — Sairam Incubation Center
-    2024 : Full Stack Intern — Octanet (React · TypeScript · Vercel CI/CD)
-         : Multi-Domain Intern — NoviTech R&D (AI · Blockchain · IoT · Full Stack)
-    2025 : Associate Data Analyst — Zinnov
-         : Building AI Agents for Fortune 500 clients
-         : B.Tech IT Graduate
-    2026 : Advancing Agentic AI · MCP · RAG · LLM Engineering
+gitGraph
+    commit id:"Started B.Tech IT (2021)"
+
+    %% -------- COMPLETED EXPERIENCE BRANCH --------
+    branch completed_experience
+    checkout completed_experience
+    commit id:"Internship - NoviTech (AI & IoT)"
+    commit id:"Internship - Octanet (Full Stack)"
+    commit id:"Internship - Sairam Incubation Center (IoT)"
+    commit id:"Internship - MIT (IoT Based Project)"
+    commit id:"Full Stack Development Internship - Octanet"
+    commit id:"Blockchain & AI Intern - NoviTech"
+    commit id:"Completed Various Certifications"
+
+    %% -------- CURRENT WORK BRANCH --------
+    branch current_work
+    checkout current_work
+    commit id:"Associate Data Analyst @ Zinnov (2025 - Present)"
+    commit id:"Working on AI Consulting System Project"
+    commit id:"Improving Data Analytics & ML Skills"
+
+    %% -------- MERGE BACK TO MAIN TIMELINE --------
+    checkout main
+    merge completed_experience
+    merge current_work
+    commit id:"Graduating B.Tech IT (2025)"
 ```
 
 ### 📋 Role Details
@@ -269,34 +283,6 @@ timeline
 </div>
 
 ---
-
-<!-- ============================================================ -->
-<!--                   SKILL PROFICIENCY                          -->
-<!-- ============================================================ -->
-
-## 📈 Skill Proficiency
-
-<div align="center">
-
-| Skill | Level | Bar |
-|:---|:---:|:---|
-| Python | 90% | `████████████████████░░` |
-| JavaScript / TypeScript | 85% | `█████████████████████░` — `███████████████████░░░` |
-| HTML & CSS | 80% | `████████████████████░░` |
-| NumPy & Pandas | 80% | `████████████████████░░` |
-| React / Next.js | 75–70% | `███████████████████░░░` |
-| Machine Learning | 75% | `███████████████████░░░` |
-| Streamlit | 78% | `███████████████████░░░` |
-| NLP / SpaCy | 72% | `██████████████████░░░░` |
-| Generative AI / LLMs | 70% | `█████████████████░░░░░` |
-| Blockchain | 70% | `█████████████████░░░░░` |
-| FastAPI / Flask | 70% | `█████████████████░░░░░` |
-| Node.js / Express | 65% | `████████████████░░░░░░` |
-| IoT | 65% | `████████████████░░░░░░` |
-| Hugging Face | 68% | `████████████████░░░░░░` |
-| MongoDB | 65% | `████████████████░░░░░░` |
-
-</div>
 
 ---
 
