@@ -18,7 +18,7 @@
                DMI College Engineering Chennai, GitHub India Developer,
                NutrifyAI, AI Consulting System, Address NER 92 F1 score
   author:      Karthikeyan K (@Karthikeyan260)
-  canonical:   https://karthikeyank-site.vercel.app/
+  canonical:   https://karthikeyan.vercel.app/
   twitter:     @karthik_keyan04
   robots:      index, follow
 -->
@@ -53,7 +53,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-karthikeyan2604-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan2604/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-karthikeyank.tech-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karthikeyank-site.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-karthikeyan.vercel.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karthikeyan.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-kartji005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartji005@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Karthikeyan260-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthikeyan260)
   [![Instagram](https://img.shields.io/badge/Instagram-%40karthik__keyan04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karthik_keyan04)
@@ -62,7 +62,7 @@
   <br />
 
   [![CCA-F Badge](https://img.shields.io/badge/Claude_Certified_Architect-Foundations_(CCA--F)-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/badges/5621fdd1-0665-4d88-9c5b-4c3adf7efdda/public_url)
-  [![Resume](https://img.shields.io/badge/Download_CV-PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://karthikeyank-site.vercel.app/resume.pdf?v=2026-05)
+  [![Resume](https://img.shields.io/badge/Download_CV-PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://karthikeyan.vercel.app/resume.pdf?v=2026-05)
 
   <br /><br />
 
@@ -312,7 +312,7 @@ Multi-domain AI consulting platform with **domain-specific chatbots** for Educat
 
 **AI Patterns:** LLM routing · domain-aware prompts · function calling
 
-[View Code](https://github.com/Karthikeyan260/AiConsultingSystem) · [Live Demo](https://aiconsultingsystem.netlify.app/)
+[View Code](https://github.com/Karthikeyan260/AiConsultingSystem) · [Live Demo](https://aiconsultingsystem.netlify.app/) · [Case Study](https://karthikeyan.vercel.app/projects/ai-consulting.html)
 
 </td>
 <td width="50%" valign="top">
@@ -328,7 +328,7 @@ End-to-end **agentic job-search tool** — resume optimisation, personalised cov
 
 **AI Patterns:** Multi-step LLM pipeline · document parsing · scoring agent
 
-[View Code](https://github.com/Karthikeyan260/AI-Powered-Job-Application-Assistant) · [Live Demo](https://ai-powered-job-application-assistant.streamlit.app/)
+[View Code](https://github.com/Karthikeyan260/AI-Powered-Job-Application-Assistant) · [Live Demo](https://ai-powered-job-application-assistant.streamlit.app/) · [Case Study](https://karthikeyan.vercel.app/projects/job-assistant.html)
 
 </td>
 </tr>
@@ -345,7 +345,7 @@ End-to-end **agentic job-search tool** — resume optimisation, personalised cov
 
 **AI Patterns:** Multimodal LLM · vision + text fusion · structured extraction
 
-[View Code](https://github.com/Karthikeyan260/NutriLens) · [Live Demo](https://nutrifyai.streamlit.app/)
+[View Code](https://github.com/Karthikeyan260/NutriLens) · [Live Demo](https://nutrifyai.streamlit.app/) · [Case Study](https://karthikeyan.vercel.app/projects/nutrify-ai.html)
 
 </td>
 <td width="50%" valign="top">
@@ -360,7 +360,7 @@ End-to-end **agentic job-search tool** — resume optimisation, personalised cov
 
 **AI Patterns:** Custom NER · entity extraction · transformer fine-tuning
 
-[View Code](https://github.com/Karthikeyan260/Address_NER) · [Live Demo](https://huggingface.co/spaces/karthik2604/Address_ner)
+[View Code](https://github.com/Karthikeyan260/Address_NER) · [Live Demo](https://huggingface.co/spaces/karthik2604/Address_ner) · [Case Study](https://karthikeyan.vercel.app/projects/address-ner.html)
 
 </td>
 </tr>
@@ -554,7 +554,7 @@ class KarthikeyanK:
         self.location     = "Chennai, Tamil Nadu, India"
         self.phone        = "+91 93457 66900"
         self.email        = "kartji005@gmail.com"
-        self.portfolio    = "https://karthikeyank-site.vercel.app/"
+        self.portfolio    = "https://karthikeyan.vercel.app/"
         self.linkedin     = "https://linkedin.com/in/karthikeyan2604/"
         self.github       = "https://github.com/Karthikeyan260"
         self.hf_profile   = "https://huggingface.co/karthik2604"
