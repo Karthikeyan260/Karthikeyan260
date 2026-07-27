@@ -41,7 +41,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=700&color=2196F3&background=00000000&center=true&vCenter=true&width=920&lines=Hey+%F0%9F%91%8B+I'm+Karthikeyan+K;AI+Engineer+%7C+Agentic+AI+Developer+%F0%9F%A4%96;Building+AI+Agents+with+MCP%2C+RAG+%26+LLMs+%F0%9F%A7%AC;Gemini+2.0+%7C+Claude+API+%7C+LangChain+%7C+OpenAI;Claude+Certified+Architect+%E2%80%94+Foundations+(CCA-F)+%F0%9F%8F%86;Full+Stack+Dev+%7C+Next.js+15+%7C+React+%7C+TypeScript;NLP+Engineer+%7C+SpaCy+%7C+Hugging+Face+%7C+92%25+F1;Data+Analyst+%40+Zinnov+%7C+Fortune+500+AI+Automation;12%2B+Live+Projects+%7C+32+Public+Repos+%F0%9F%9A%80;Open+to+AI+Engineer+%26+Agentic+AI+Roles+%F0%9F%A4%9D"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=700&color=2196F3&background=00000000&center=true&vCenter=true&width=920&lines=Hi+%F0%9F%91%8B+I'm+Karthikeyan+K;AI+Engineer+%7C+Agentic+AI+Developer+%F0%9F%A4%96;Building+AI+Agents+with+MCP%2C+RAG+%26+LLMs+%F0%9F%A7%AC;Gemini+2.0+%7C+Claude+API+%7C+LangChain+%7C+OpenAI;Claude+Certified+Architect+%E2%80%94+Foundations+(CCA-F)+%F0%9F%8F%86;Full+Stack+Dev+%7C+Next.js+15+%7C+React+%7C+TypeScript;NLP+Engineer+%7C+SpaCy+%7C+Hugging+Face+%7C+92%25+F1;Data+Analyst+%40+Zinnov+%7C+Fortune+500+AI+Automation;12%2B+Live+Projects+%7C+32+Public+Repos+%F0%9F%9A%80;Open+to+AI+Engineer+%26+Agentic+AI+Roles+%F0%9F%A4%9D"
     alt="Karthikeyan K — AI Engineer Agentic AI Developer LLM MCP RAG Claude Gemini"
   />
 </h1>
